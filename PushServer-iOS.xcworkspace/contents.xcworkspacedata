@@ -5,6 +5,9 @@
       location = "group:Push/Push.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:PushServer-macOS/PushServer-macOS.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:PushServer-iOS.xcodeproj">
    </FileRef>
 </Workspace>

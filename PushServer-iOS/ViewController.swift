@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Push
+import Push_iOS
 
 class ViewController: UIViewController {
     

@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5EAD2524229479A5008DCECE"
-               BuildableName = "Push.framework"
-               BlueprintName = "Push"
+               BuildableName = "Push_iOS.framework"
+               BlueprintName = "Push-iOS"
                ReferencedContainer = "container:Push.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C62031F43D5F49293A7EA390A4299A5F"
-               BuildableName = "OpenSSL-Universal"
-               BlueprintName = "OpenSSL-Universal"
-               ReferencedContainer = "container:../Pods/Pods.xcodeproj">
+               BlueprintIdentifier = "5E33D5C922963E63004F7398"
+               BuildableName = "Push_Mac.framework"
+               BlueprintName = "Push-Mac"
+               ReferencedContainer = "container:Push.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,8 +47,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5EAD2524229479A5008DCECE"
-            BuildableName = "Push.framework"
-            BlueprintName = "Push"
+            BuildableName = "Push_iOS.framework"
+            BlueprintName = "Push-iOS"
             ReferencedContainer = "container:Push.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -69,8 +69,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5EAD2524229479A5008DCECE"
-            BuildableName = "Push.framework"
-            BlueprintName = "Push"
+            BuildableName = "Push_iOS.framework"
+            BlueprintName = "Push-iOS"
             ReferencedContainer = "container:Push.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -87,8 +87,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5EAD2524229479A5008DCECE"
-            BuildableName = "Push.framework"
-            BlueprintName = "Push"
+            BuildableName = "Push_iOS.framework"
+            BlueprintName = "Push-iOS"
             ReferencedContainer = "container:Push.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
